@@ -1,4 +1,4 @@
-# Stock prediction
+# Stock prediction using LSTM
 
 
 # Overview:
